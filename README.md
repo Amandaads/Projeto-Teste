@@ -4,3 +4,4 @@ Este é meu primeiro projeto teste usando Git!
 # Curso digital: Versionamento 
 * comando git push
 * comando git pull
+* comando git fetch
